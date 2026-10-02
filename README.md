@@ -61,6 +61,9 @@ An AI-powered portfolio & resume generation platform for modern professionals. F
 ✦ AI-powered resume PDF parsing with automatic profile data hydration
 **Stack:** Next.js • TypeScript • AI/LLM
 
+### 🎧 Auralis — Smart Audio Product Discovery
+A modern audio product discovery platform that helps users explore and compare earbuds, headphones, neckbands, and speakers with rich product information, multiple product images, specifications, and intelligent search. Designed to make finding the right audio device faster through a clean, product-focused experience. ✦ Multi-category audio product discovery with detailed specifications & comparisons **Stack:** Next.js • TypeScript • MongoDB • AI
+
 ### 📁 FileDrop — Guest-First File Sharing
 A guest-first temporary file-sharing platform designed for large-file transfers. Features a highly resilient, cross-refresh resumable multipart upload engine, storage quotas, and atomic download limits.
 ✦ Guest-first large file sharing with no mandatory user accounts
